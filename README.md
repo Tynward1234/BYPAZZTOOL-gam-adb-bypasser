@@ -1,1 +1,1 @@
-This is a Bash program that bypasses google accounts and knox maybe not useful but meh
+This is a Batch program that bypasses google accounts and knox maybe not useful but meh
