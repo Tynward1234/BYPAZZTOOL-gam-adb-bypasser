@@ -47,6 +47,8 @@ msg * Removing previous owner's account...
 "%~dp0adb.exe" shell pm clear com.android.providers.settings
 "%~dp0adb.exe" shell am start -n com.android.settings/com.android.settings.Settings$DeviceAdminSettingsActivity
 
+adb reboot
+
 msg * google lock bypassed!
 msg * Don't forget to add your own account to the device.
 pause
